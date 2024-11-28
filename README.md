@@ -23,7 +23,7 @@ pkg install nodejs git
 
 2. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/bugscanner-js.git
+git clone https://github.com/J5Home/project/bugscanner-js.git
 ```
 
 3. Enter the directory and install:
